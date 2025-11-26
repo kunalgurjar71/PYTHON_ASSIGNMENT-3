@@ -1,0 +1,18 @@
+{
+    "patients": {
+        "104": {
+            "name": "Kunal",
+            "age": 19,
+            "patient_id": "104",
+            "disease": "Fever",
+            "status": "Discharged"
+        }
+    },
+    "doctors": {
+        "12": {
+            "name": "DR.Kunal Lohia",
+            "specialization": "MBB",
+            "doctor_id": "12"
+        }
+    }
+}
